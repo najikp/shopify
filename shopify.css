@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+ 
+}
+.main-body{
+    width: 100%;
+    height: 2000px;
+}
+.img1{
+    background-image: url(img1.svg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1150px;
+    background-size: cover;
+    background-position: center;
+
+
+}
+.logo{
+    margin-left: 655px;
+
+
+}
+.shopify-logo{
+    margin-top: 10px;
+    width: 135px;
+    height: 70px;
+}
+.img1-h1{
+    color: white;
+    font-size: 55px;
+    font-weight: 700;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    margin-left: -345px;
+    text-align: center;
+    width: 810px;
+}
+.para1{
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 31px;
+    margin-left: -300px;
+}
+.input1{
+    width: 300px;
+    height: 50px;
+    border-radius: 4px;
+    border-style: none;
+    font-size: 15px;
+    margin-left: -180px;
+
+}
+.button1{
+    background: #212326;
+    color: white;
+    border-radius: 4px;
+    border-style: none;
+    height: 50px;
+    width: 150px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 12px;
+}
+.para2{
+    color: white;
+    font-size: 12px;
+    margin-left: -150px;
+    margin-top: 30px;
+}
+.img2{
+    margin-left: -320px;
+    margin-top: 20px;
+}
+.logs{
+    width: 45px;
+    height: 45px;
+    fill: #008060;
+
+}
+.table
+{
+    height: 180px;
+    margin-top: 100px;
+    width: 950px;
+    margin-left: -420px;
+}
+.row2{
+    font-weight: bold;
+}
+.row3{
+    font-weight: lighter;
+    color: #6b7177;
+    
+}
+.hr1{
+    margin-top: 150px;
+    margin-left: -420px;
+    width: 980px;
+}
+.content{
+
+    margin-left: -400px;
+}
+.images{
+    margin-right: 30px;
+    margin-top: 40px;
+}
+.hr2{
+    margin-top: 40px;
+    margin-left: -420px;
+    width: 980px;
+}
+.para3{
+    font-size: 24px;
+    font-weight: lighter;
+    text-align: center;
+    margin-left: -590px;
+    margin-top: 100px;
+    line-height: 1.4;
+}
+.cite{
+    margin-left: -50px;
+    color: #6b7177;
+    font-size: 13px;
+    font-weight: bold;
+}
+.button2
+{
+    margin-top: 30px;
+    color: white;
+    border-radius: 4px;
+    border-style: none;
+    height: 50px;
+    width: 150px;
+    font-size: 14px;
+    font-weight: bold;
+    background: #008060;
+}
+.footer{
+    
+    height: 100px;
+    width: 100%;
+}
+.anchor{
+    padding-left: 65%;
+    padding-top: 70px;
+}
+.link{
+    text-decoration: none;
+    margin-right: 30px;
+}
